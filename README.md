@@ -1,1 +1,1 @@
-# notepad
+# Windows Forms приложение – «Notepad+»
